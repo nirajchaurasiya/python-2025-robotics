@@ -50,7 +50,6 @@ class ElectricCarTwo(Car, Battery, Engine):
 my_new_tesla = ElectricCarTwo("Tesla", "S")
 
 print(my_new_tesla.engine_info())
-
 print(my_new_tesla.battery_info())
 
 # my_tesla = ElectricCar("Tesla", "Model S", "85kWh")
