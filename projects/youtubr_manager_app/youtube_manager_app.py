@@ -10,7 +10,7 @@ import json
 # [{'name': 'chai', 'time': '2min'}, {'name': 'code', 'time': '2 hours'}]
 # >>> enumerate(list,start=1)
 # <enumerate object at 0x702fb65a8810>
-# >>> list
+# >>> listhttps://github.com/nirajchaurasiya/python-2025-robotics/commits/master/
 # [{'name': 'chai', 'time': '2min'}, {'name': 'code', 'time': '2 hours'}]
 # >>> list(enumerate(list,start=1))
 # Traceback (most recent call last):
