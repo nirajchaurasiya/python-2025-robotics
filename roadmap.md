@@ -5,3 +5,4 @@ I don't know about the exact path, but I will write every step that I take in ma
 Steps:
 
 - Learning Python - Started in Jan 01 2025
+- I will be learning NLP - Started in Jan 15 2025
